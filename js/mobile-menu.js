@@ -26,10 +26,10 @@ function toggleAnswer(element) {
 
   if (answer.style.display === "none" || answer.style.display === "") {
     answer.style.display = "block";
-    buttonImg.src = "/img/faq/arrow.png"; 
+    buttonImg.src = "/image/faq/1 (2).png"; 
   } else {
     answer.style.display = "none";
-    buttonImg.src = "/img/faq/icon.png"; 
+    buttonImg.src = "/image/faq/Frame 154.png"; 
   }
 }
 
