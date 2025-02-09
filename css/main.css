@@ -894,6 +894,8 @@ a {
 @media screen and (min-width: 1200px) {
   .footer {
     padding: 40px 0px;
+    width: 1440px;
+    margin: auto;
   }
   .footer-container {
     gap: 40px;
@@ -999,6 +1001,8 @@ a {
 @media screen and (min-width: 1200px) {
   .policy-terms-container {
     padding: 186px 80px 40px;
+    width: 1440px;
+    margin: auto;
   }
   .policy-terms-title {
     font-family: Sansita One;
@@ -1109,6 +1113,4 @@ a {
     padding: 50px;
     display: none;
   }
-
-
 }
